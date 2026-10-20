@@ -4,9 +4,9 @@
 <text x="48" y="58" font-size="24" font-weight="700" fill="#ffffff">GitHub Stats</text>
 <rect x="48" y="84" width="362" height="186" rx="12" fill="#0e0e12" stroke="#26222f"/>
 <text x="68" y="116" font-size="13" fill="#bdbdc7">Contributions (last year)</text>
-<text x="390" y="116" font-size="14" font-weight="700" fill="#a78bfa" text-anchor="end">239</text>
+<text x="390" y="116" font-size="14" font-weight="700" fill="#a78bfa" text-anchor="end">242</text>
 <text x="68" y="143" font-size="13" fill="#bdbdc7">Commits (last year)</text>
-<text x="390" y="143" font-size="14" font-weight="700" fill="#a78bfa" text-anchor="end">236</text>
+<text x="390" y="143" font-size="14" font-weight="700" fill="#a78bfa" text-anchor="end">239</text>
 <text x="68" y="170" font-size="13" fill="#bdbdc7">Pull requests (last year)</text>
 <text x="390" y="170" font-size="14" font-weight="700" fill="#a78bfa" text-anchor="end">0</text>
 <text x="68" y="197" font-size="13" fill="#bdbdc7">Public repositories</text>
@@ -19,15 +19,15 @@
 <text x="450" y="116" font-size="15" font-weight="700" fill="#ffffff">Top languages</text>
 <clipPath id="bar"><rect x="450" y="132" width="322" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="450.0" y="132" width="179.8" height="10" fill="#8b5cf6"/>
-<rect x="629.3" y="132" width="139.0" height="10" fill="#a78bfa"/>
+<rect x="450.0" y="132" width="177.5" height="10" fill="#8b5cf6"/>
+<rect x="627.0" y="132" width="141.3" height="10" fill="#a78bfa"/>
 <rect x="767.8" y="132" width="3.0" height="10" fill="#c4b5fd"/>
 <rect x="770.3" y="132" width="2.2" height="10" fill="#6d28d9"/>
 </g>
 <circle cx="455" cy="170" r="5" fill="#8b5cf6"/>
-<text x="466" y="174" font-size="12.5" fill="#bdbdc7">Jupyter Notebook <tspan fill="#8b8b96">55.7%</tspan></text>
+<text x="466" y="174" font-size="12.5" fill="#bdbdc7">Jupyter Notebook <tspan fill="#8b8b96">55.0%</tspan></text>
 <circle cx="620" cy="170" r="5" fill="#a78bfa"/>
-<text x="631" y="174" font-size="12.5" fill="#bdbdc7">HTML <tspan fill="#8b8b96">43.0%</tspan></text>
+<text x="631" y="174" font-size="12.5" fill="#bdbdc7">HTML <tspan fill="#8b8b96">43.7%</tspan></text>
 <circle cx="455" cy="200" r="5" fill="#c4b5fd"/>
 <text x="466" y="204" font-size="12.5" fill="#bdbdc7">JavaScript <tspan fill="#8b8b96">0.8%</tspan></text>
 <circle cx="620" cy="200" r="5" fill="#6d28d9"/>
